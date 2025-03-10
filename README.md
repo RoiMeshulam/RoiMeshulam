@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Hello, I'm Roi Meshulam, a Computer Science graduate from Ariel University. Welcome to my GitHub profile!</p>
+<p align="left">Hi, I'm Roi Meshulam, a Full-Stack Developer with a passion for building web and mobile applications. Welcome to my GitHub profile! </p>
+
 
 ###
 
