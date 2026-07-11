@@ -1,9 +1,13 @@
 <h1 align="left">Hey 👋 What's up?</h1>
+
 ###
+
 <p align="left">Software Engineer building event-driven backend systems and AI-integrated automation pipelines. Currently at OMW, architecting a delivery platform that processes 600+ orders daily across WhatsApp, Telegram, and Email. I also take on freelance projects end to end - most recently Kasa Smart, a cloud-native recycling platform. Welcome to my GitHub profile!</p>
 ###
 <h2 align="left">I code with</h2>
+
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -17,7 +21,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
   <img width="12" />
@@ -37,4 +43,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
+
 ###
